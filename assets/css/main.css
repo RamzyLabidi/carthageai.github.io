@@ -2060,6 +2060,7 @@ input, select, textarea {
 
 	#page-wrapper > section {
 		margin-bottom: 0;
+		
 	}
 
 /* Header */
@@ -2173,9 +2174,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
-		background-position: center center;
-		background-size: auto 100%;
+		background: #CCE8F4 url("../../images/bg.jpg");
+		background-position:0% ;
+		background-size: auto 300%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
